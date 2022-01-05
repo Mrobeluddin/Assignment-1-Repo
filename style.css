@@ -28,3 +28,30 @@ body{
 p{
     font-size: 20px;
 }
+.mission-6{
+    display: flex;
+}
+.mission-6 img{
+    width: 220px;   
+}
+.mission-7{
+    border: 1px solid;
+    border-spacing: 10px;
+    margin: a20px;
+    padding: 20px;
+}
+.mission-8 img{
+    width: 300px;
+    display: flex;
+}
+.mission-9{
+    display: flex;
+}
+.mission-9 img{
+    width: 300px;
+}.mission-10{
+    display: flex;
+}
+.mission-10 img{
+    width: 300px;
+}
