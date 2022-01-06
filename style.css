@@ -30,28 +30,101 @@ p{
 }
 .mission-6{
     display: flex;
+    margin-left: 50px;
+    margin-right: 50px;
+    justify-content: space-around;
+    padding-left: 80px;
+    padding-right: 80px;
 }
 .mission-6 img{
-    width: 220px;   
+    width: 220px;
+    display: flex; 
+}
+.mission-13{
+    text-align: center;
+    font-size: 60px;
 }
 .mission-7{
     border: 1px solid;
-    border-spacing: 10px;
-    margin: a20px;
-    padding: 20px;
+    margin: 30px;
+    padding: 30px;
+    border-radius: 20px;
+    border: none;
+    background-color: red;
+ 
+}
+.mission-11{
+    background-color: rosybrown;
+    border: 1px solid;
+    margin: 30px;
+    padding: 30px;
+    border-radius: 20px;
+    border: none
+}
+.mission-12{
+    background-color: royalblue;
+    border: 1px solid;
+    margin: 30px;
+    padding: 30px;
+    border-radius: 20px;
+    border: none
+}
+.mission-8{
+    display: flex;
+    margin-top: 20px;
+    margin-left: 80px;
+    margin-right: 150px;
+    padding: 80px;
+}
+.mission-15{
+    padding: 50px;
+}
+.mission-16{
+    font-size: 55px;
 }
 .mission-8 img{
-    width: 300px;
-    display: flex;
+    width: 400px;
 }
 .mission-9{
     display: flex;
+    margin-top: 20px;
+    margin-left: 80px;
+    margin-right: 150px;
+    padding: 80px;
 }
 .mission-9 img{
-    width: 300px;
+    width: 400px;
 }.mission-10{
     display: flex;
+    margin-left: 80px;
+    margin-right: 150px;
 }
 .mission-10 img{
-    width: 300px;
+    width: 400px;
+}
+button{
+    width: 200px;
+    height: 40px;
+    border-radius: 5px;
+    border: 2px solid;
+    border-color: yellowgreen;
+}
+.mission-17{
+    padding: 20px;
+}
+.mission-18{
+    font-size: 55px;
+}
+.mission-19{
+    text-align: center;
+    font-size: 55px;
+}
+.mission-20{
+    font-size: 40px;
+}
+.mission-2021{
+    text-align: center;
+    border: none;
+    background-color: goldenrod;
+    height: 120px;
 }
