@@ -1,6 +1,19 @@
 body{
     margin: 0%;
 }
+.mission-25{
+    color: #cdda23;
+}
+line{
+    stroke-width: 15px;
+    stroke: red;
+    
+}
+svg{
+    margin-top: 50px;
+    height: 180px;
+    width: 5px;
+}
 .mission-1{
     display: flex;
     margin-top: 20px;
@@ -23,10 +36,11 @@ body{
     display: flex;
 }
 .mission-2 img{
-    width: 500px;
+    width: 550px;
+    padding: 30px;
 }
 p{
-    font-size: 20px;
+    font-size: 35px;
 }
 .mission-6{
     display: flex;
@@ -48,25 +62,27 @@ p{
     border: 1px solid;
     margin: 30px;
     padding: 30px;
-    border-radius: 20px;
+    border-radius: 40px;
     border: none;
-    background-color: red;
- 
+    background-color: hsl(147, 88%, 69%);
+}
+.mission-2022{
+    font-size: 40px;
 }
 .mission-11{
-    background-color: rosybrown;
+    background-color: #9fc5f7;
     border: 1px solid;
     margin: 30px;
     padding: 30px;
-    border-radius: 20px;
+    border-radius: 40px;
     border: none
 }
 .mission-12{
-    background-color: royalblue;
+    background-color: #ee7585;
     border: 1px solid;
     margin: 30px;
     padding: 30px;
-    border-radius: 20px;
+    border-radius: 40px;
     border: none
 }
 .mission-8{
@@ -75,15 +91,21 @@ p{
     margin-left: 80px;
     margin-right: 150px;
     padding: 80px;
+    background-image: url(./images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 300px;
+    background-position: left;
+
 }
 .mission-15{
-    padding: 50px;
+    padding: 80px;
+
 }
 .mission-16{
     font-size: 55px;
 }
 .mission-8 img{
-    width: 400px;
+    width: 450px;
 }
 .mission-9{
     display: flex;
@@ -91,23 +113,40 @@ p{
     margin-left: 80px;
     margin-right: 150px;
     padding: 80px;
+    background-image: url(./images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 300px;
+    background-position: right;
+}
+.mission-14 img{
+    width: 550px;
 }
 .mission-9 img{
-    width: 400px;
+    width: 450px;
 }.mission-10{
     display: flex;
     margin-left: 80px;
     margin-right: 150px;
+    background-image: url(./images/shapes/shape-3.png);
+    background-repeat: no-repeat;
+    background-size: 200px;
+    padding: 80px;
+    
+
 }
 .mission-10 img{
     width: 400px;
+
 }
 button{
-    width: 200px;
-    height: 40px;
+    width: 250px;
+    height: 60px;
     border-radius: 5px;
-    border: 2px solid;
+    border: none;
     border-color: yellowgreen;
+    font-size: 20px;
+    background-color: gray;
+    color: white;
 }
 .mission-17{
     padding: 20px;
@@ -125,6 +164,17 @@ button{
 .mission-2021{
     text-align: center;
     border: none;
-    background-color: goldenrod;
-    height: 120px;
+    background-color: #251f0d;
+    height: 160px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.mission-22{
+    font-size: 20px;
+}
+.mission-23{
+    font-size: 40px;
+}
+.mission-26{
+    font-size: 45px;
 }
