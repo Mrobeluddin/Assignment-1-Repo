@@ -10,9 +10,14 @@ line{
     
 }
 svg{
-    margin-top: 50px;
+    margin-top: 90px;
     height: 180px;
-    width: 5px;
+    width: 10px;
+   
+}
+.mission-30{
+    padding-left: 30px;
+    font-size: 90px;
 }
 .mission-1{
     display: flex;
@@ -20,7 +25,6 @@ svg{
     margin-left: 150px;
     margin-right: 150px;
     padding: 80px;
-    
 }
 .mission-3{
     margin-top: 50px;
@@ -37,7 +41,7 @@ svg{
 }
 .mission-2 img{
     width: 550px;
-    padding: 30px;
+    padding-left: 350px;
 }
 p{
     font-size: 35px;
@@ -65,6 +69,7 @@ p{
     border-radius: 40px;
     border: none;
     background-color: hsl(147, 88%, 69%);
+    text-align: justify;
 }
 .mission-2022{
     font-size: 40px;
@@ -75,7 +80,8 @@ p{
     margin: 30px;
     padding: 30px;
     border-radius: 40px;
-    border: none
+    border: none;
+    text-align: justify;
 }
 .mission-12{
     background-color: #ee7585;
@@ -83,7 +89,8 @@ p{
     margin: 30px;
     padding: 30px;
     border-radius: 40px;
-    border: none
+    border: none;
+    text-align: justify;
 }
 .mission-8{
     display: flex;
@@ -98,7 +105,8 @@ p{
 
 }
 .mission-15{
-    padding: 80px;
+    padding-top: 10px;
+    padding-left: 120px;text-align: justify;
 
 }
 .mission-16{
@@ -149,7 +157,8 @@ button{
     color: white;
 }
 .mission-17{
-    padding: 20px;
+    text-align: justify;
+    padding-right: 90px;
 }
 .mission-18{
     font-size: 55px;
@@ -177,4 +186,8 @@ button{
 }
 .mission-26{
     font-size: 45px;
+}
+.mission-31{
+    padding-left: 50px;
+    text-align: justify;
 }
